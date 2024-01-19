@@ -1,4 +1,4 @@
 # Polulu Robot 3Pi Navigation Project
-:-
 
-nj
+# Overview
+This project utilizes the Polulu 3Pi Robot to control its movements while navigating through an x-y coordinate axis. Coordinates for the x and y axes are entered through a series of button presses on the left and right buttons, respectively. The applications used for this project include the installation of a coding editor (I used Visual Studio Code), as well as any terminal application (Visual Studio Code has a built-in terminal). During the creation of this project, we encountered challenges related to minimizing the error between the real destination of the robot and its intended destination. This challenge was overcome through multiple testing rounds where a mathematical expression was derived to calculate the numerical value that would most closely match the intended destination of the robot.
